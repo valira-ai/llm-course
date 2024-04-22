@@ -27,6 +27,7 @@ Delavnice:
 5. Sodobna obdelava naravnega jezika: nadgradnja velikih jezikovnih modelov:
 - [RAG in ReAct slides](https://github.com/valira-ai/llm-course/blob/main/slides/05%20-%20Nadgradnja%20LLM-jev%20-%20RAG%20in%20ReAct.pdf)
 - OpenAI Assistants API: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valira-ai/llm-course/blob/main/notebooks/05%20-%20OpenAI%20Assistants%20API.ipynb)
+- [LangChain in podobne knjižnice slides](https://github.com/valira-ai/llm-course/blob/main/slides/06%20-%20LangChain%20in%20podobne%20knjižnice.pdf)
 - LangChain - nestrukturirano: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valira-ai/llm-course/blob/main/notebooks/05b-LangChain-nestrukturirano.ipynb)
 - LangChain - strukturirano: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valira-ai/llm-course/blob/main/notebooks/05c-LangChain-strukturirano.ipynb)
 - LangChain - agenti: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valira-ai/llm-course/blob/main/notebooks/05d-langChain-agent.ipynb)
