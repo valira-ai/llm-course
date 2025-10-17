@@ -1,7 +1,7 @@
-# Akademija umetne inteligence za poslovne aplikacije 
+# Akademija velikih jezikovnih modelov
 **Avtorja**: *Andrej Miščič*, *Luka Vranješ*, *Valira AI*
 
-*GZS, 8., 15., 22. 4. 2024*
+*GZS, 8., 15., 22. 10. 2025*
 
 --
 
