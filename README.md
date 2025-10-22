@@ -19,3 +19,10 @@
   * Iskanje podobnih besedil: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valira-ai/llm-course/blob/main/notebooks/03a%20-%20BERT%20-%20iskanje%20podobnih%20besedil.ipynb)
   * Klasifikacija besedil: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valira-ai/llm-course/blob/main/notebooks/03b%20-%20BERT%20-%20klasifikacija%20besedil.ipynb)
   * Zaznava imenskih entitet: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valira-ai/llm-course/blob/main/notebooks/03c%20-%20BERT%20-%20zaznava%20imenskih%20entitet.ipynb)
+ 
+4. RAG in LLM agenti:
+- [prosojnice](https://github.com/valira-ai/llm-course/blob/main/slides/04-RAG%20in%20LLM%20Agenti.pdf)
+- praktičen del:
+  * Predstavitev Google ADK ogrodja: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valira-ai/llm-course/blob/main/notebooks/04a%20-%20Introduction%20to%20ADK.ipynb)
+  * RAG/nestrukturirani podatki: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valira-ai/llm-course/blob/main/notebooks/04b%20-%20RAG%20-%20nestrukturirani%20podatki.ipynb)
+  * Strukturirani podatki: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valira-ai/llm-course/blob/main/notebooks/04c%20-%20ADK-strukturirano.ipynb)
